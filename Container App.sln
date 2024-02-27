@@ -5,6 +5,11 @@ VisualStudioVersion = 17.9.34607.119
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContainerAppAPI", "ContainerAppAPI\ContainerAppAPI.csproj", "{644620E7-29AC-41FB-AB01-BFA6882A9D90}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Client Script", "Client Script", "{8EA8A424-C955-4248-9DB2-2A3ED9670EE8}"
+	ProjectSection(SolutionItems) = preProject
+		Clent request.ps1 = Clent request.ps1
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
